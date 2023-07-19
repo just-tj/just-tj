@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @just-tj
-- 👀 I’m interested in coding, drawing, and music.
-- 🌱 I’m currently learning Python and HTML.
+- 👋 hi, I’m @just-tj
+- 👀 i'm interested in coding, drawing, and music.
+- 🌱 i’m currently learning Python and HTML.
 
 <!---
 just-tj/just-tj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
